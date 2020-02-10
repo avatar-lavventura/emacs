@@ -53,7 +53,7 @@
                (linum :slant italic :foreground ,bg4 :background ,dracula-bg)
                (line-number :slant italic :foreground ,bg4 :background ,dracula-bg)
                (minibuffer-prompt :weight bold :foreground ,dracula-pink)
-               (region :background ,dracula-yellow :foreground ,dracula-bg :extend t)
+               (region :background ,dracula-yellow :foreground ,"#000000" :extend t)   
                (trailing-whitespace :foreground nil :background ,dracula-orange)
                (vertical-border :foreground ,bg2)
                (success :foreground ,dracula-green)
